@@ -329,6 +329,28 @@ export const cardanoResources = {
         github: "https://github.com/nftcdn"
       },
       category: "Minting and NFTs"
+    },
+    {
+      id: 63,
+      name: "Cexplorer.io",
+      logo: "https://cexplorer.io/assets/navbar_logo_light-Da7G9Gki.svg",
+      description: "Cardano explorer.",
+      fullDescription: "We are building most OG Cardano explorer.",
+      keySolutions: [
+        "explorer"
+      ],
+      website: "https://cexplorer.io",
+      social: {
+        github: "github.com/vellum-labs",
+        discord: "https://discord.gg/PGCmmQC3dj",
+        x: "https://x.com/cexplorer_io"
+      },
+      category: "Infrastructure & APIs",
+      type: "organization",
+      organization: "vellum-labs",
+      repository: null,
+      repo_path: "vellum-labs",
+      docs: "https://github.com/vellum-labs/cexplorer-fe"
     }
   ],
   "Security & Auditing": [
